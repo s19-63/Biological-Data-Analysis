@@ -1,5 +1,4 @@
 # Biological-Data-Analysis
-## Use of Analysis
 
 This EDA analyzes biological data to identify patterns and relationships between **gene expression, protein levels, disease status, species, and experimental conditions**. It examines data quality, class distribution, feature distributions, outliers, correlations, species-wise disease patterns, and experimental-condition effects.
 
